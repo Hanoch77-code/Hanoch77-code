@@ -8,7 +8,7 @@
 - I love art
 - I play piano
 - I try to restore old device mostly electronic devices.
-- ### Hobbies : ### cycling,music,caligraphy sometimes.
+- ### Hobbies : cycling,music,caligraphy sometimes.
 
 <!---
 Hanoch77-code/Hanoch77-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
